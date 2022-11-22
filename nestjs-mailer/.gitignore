@@ -1,6 +1,7 @@
 # compiled output
 /dist
 /node_modules
+.env
 
 # Logs
 logs
@@ -32,14 +33,3 @@ lerna-debug.log*
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
-
-
-# Secret Enviroment Variables
-.env
-.env.local
-.env.development
-.env.production
-.env.docker
-dist
-dist/
-docker.env

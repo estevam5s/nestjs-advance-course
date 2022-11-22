@@ -33,13 +33,6 @@ lerna-debug.log*
 !.vscode/launch.json
 !.vscode/extensions.json
 
-
-# Secret Enviroment Variables
 .env
-.env.local
-.env.development
-.env.production
 .env.docker
-dist
-dist/
-docker.env
+.env.rabbitmq
