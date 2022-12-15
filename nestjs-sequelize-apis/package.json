@@ -35,7 +35,7 @@
     "@nestjs/event-emitter": "0.0.3",
     "@nestjs/jwt": "^7.2.0",
     "@nestjs/passport": "^7.1.5",
-    "@nestjs/platform-express": "^7.0.0",
+    "@nestjs/platform-express": "^8.0.0",
     "@nestjs/swagger": "^4.4.0",
     "@types/passport-jwt": "^3.0.5",
     "@types/passport-local": "^1.0.33",
